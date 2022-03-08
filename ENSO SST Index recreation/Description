@@ -1,0 +1,15 @@
+The attached code re-creates the El Niño Southern Oscillation (ENSO) sea surface temperature indices data
+using ERSSTv5 SST data. Main purpose is to retrieve index data prior to 1950 since public
+ENSO index does not provide Oceanic Niño Index data available prior to 1950 and to re-create
+ENSO SST indices that use a uniform SST dataset for analysis with NDI options. 
+
+Sea surface temperature and ENSO index data used in this process are from
+the Physical Sciences Laboratory and NOAA Climate Prediction Center.
+
+General instructions on how the Oceanic Niño Index and Niño 3 index
+are calculated is from the Climate Prediction Center, Japanese Meteorological Agency and from
+https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni
+
+General instructions on how to calculate Trans Niño Index data are from the Trenberth and
+Stepeniak (2001): Indices Of El Niño Evolution.
+
