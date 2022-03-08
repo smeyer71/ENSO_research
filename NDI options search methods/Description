@@ -1,8 +1,3 @@
-This code highlights the box search methods used when I was a research
-assistant to select final NDI options for further research. The NDI 
-along with other ENSO SST indices will be evaluated using climate model
-data to determine the degree to which they could change in future
-climate scenarios. This includes whether each indices time series 
-continues to capture the ENSO signal that is representative of the
-past/current oceanic state, and consequentially whether they still
-have a strong relationship with the atmospheric reponse due to ENSO. 
+This code highlights the SST box search methods I used when I 
+was a research assistant to select final NDI options for further 
+research.
