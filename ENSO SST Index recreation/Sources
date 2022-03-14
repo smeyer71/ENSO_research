@@ -1,0 +1,26 @@
+ENSO index data used in this process for comparison with my calculated index values are from the 
+Physical Sciences Laboratory (PSL), NOAA Climate Prediction Center (CPC) and Japanese Meteorological
+Agency (JMA).
+
+-- For ONI data
+CPC: https://www.cpc.ncep.noaa.gov/data/indices/
+
+-- For TNI data
+PSL: https://psl.noaa.gov/enso/dashboard.html 
+
+-- For Niño 3 index data
+JMA: https://ds.data.jma.go.jp/tcc/tcc/products/elnino/index/index.html 
+--------------------------------------------------------------------------------------------------
+
+Instructions on how the Oceanic Niño Index and Niño 3 index are calculated is from the 
+Climate Prediction Center and NCAR.
+
+CPC: https://origin.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php
+NCAR: https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni
+
+---------------------------------------------------------------------------------------------------
+
+Instructions on how to calculate Trans Niño Index data are from Trenberth and
+Stepeniak (2001): Indices Of El Niño Evolution.
+
+url: https://journals.ametsoc.org/view/journals/clim/14/8/1520-0442_2001_014_1697_lioeno_2.0.co_2.xml
